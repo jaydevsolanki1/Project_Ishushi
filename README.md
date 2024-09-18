@@ -1,2 +1,2 @@
 # Project_Ishushi
-Basic layout
+Basic layout with responsive 
